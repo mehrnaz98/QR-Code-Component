@@ -8,11 +8,14 @@
       />
     </div>
 
-      <p></p>
     <div class="flex flex-col p-6 text-center">
       <h2 class="text-slate-900 text-xl font-bold">
         Improve your front-end skills by building projects
       </h2>
+      <p class="text-slate-500">
+        Scan the QR code to visit Frontend Mentor and take your coding skills to
+        the next level
+      </p>
     </div>
   </section>
 </template>
