@@ -8,9 +8,9 @@
       />
     </div>
 
-    <div>
       <h2></h2>
       <p></p>
+    <div class="flex flex-col p-6 text-center">
     </div>
   </section>
 </template>
