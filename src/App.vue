@@ -1,5 +1,7 @@
 <template>
-  <BaseCard></BaseCard>
+  <div class="bg-slate-300 min-h-screen">
+    <BaseCard></BaseCard>
+  </div>
 </template>
 
 <script setup>
