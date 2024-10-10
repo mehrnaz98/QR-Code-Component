@@ -8,9 +8,11 @@
       />
     </div>
 
-      <h2></h2>
       <p></p>
     <div class="flex flex-col p-6 text-center">
+      <h2 class="text-slate-900 text-xl font-bold">
+        Improve your front-end skills by building projects
+      </h2>
     </div>
   </section>
 </template>
