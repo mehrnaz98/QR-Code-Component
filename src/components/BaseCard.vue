@@ -9,10 +9,10 @@
     </div>
 
     <div class="flex flex-col p-6 text-center">
-      <h2 class="text-slate-900 text-xl font-bold leading-6">
+      <h2 class="text-slate-900 text-[21px] font-bold leading-6">
         Improve your front-end skills by building projects
       </h2>
-      <p class="text-slate-500 p-3 text-sm leading-5">
+      <p class="text-slate-500 p-3 pt-4 text-[15px] leading-5">
         Scan the QR code to visit Frontend Mentor and take your coding skills to
         the next level
       </p>
