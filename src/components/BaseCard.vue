@@ -9,7 +9,7 @@
     </div>
 
     <div class="flex flex-col p-6 text-center font-outfit">
-      <h2 class="text-slate-900 text-[22px] font-bold leading-7">
+      <h2 class="text-slate-900 text-[22px] font-bold leading-6">
         Improve your front-end skills by building projects
       </h2>
       <p class="text-slate-500 p-3 pt-4 text-[15px] leading-5">
