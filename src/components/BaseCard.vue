@@ -1,6 +1,6 @@
 <template>
   <section
-    class="w-[320px] h-[499px] bg-white border border-none rounded-2xl shadow-xl"
+    class="max-w-[20rem] bg-white border border-none rounded-2xl shadow-xl"
   >
     <div class="p-4 pb-0">
       <img
